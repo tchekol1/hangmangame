@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03cb3f0e-de02-421e-8c11-656df039de90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b8Av34hac0bClSaV2N2o7aTyJp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleHangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleHangman" />
+      <module name="simplehangman" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleHangman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03cb3f0e-de02-421e-8c11-656df039de90" name="Default Changelist" comment="" />
+      <created>1588003573793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588003573793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom" timestamp="1588086050767">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1588086050767" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center" timestamp="1588086050763">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1588086050763" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left" timestamp="1588086050761">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1588086050761" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right" timestamp="1588086050765">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1588086050765" />
+  </component>
+</project>
